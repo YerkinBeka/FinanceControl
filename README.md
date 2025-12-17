@@ -81,6 +81,7 @@ Android AAB
 https://drive.google.com/file/d/1y0YbdPgT-75AYiXmJxtolRO9YqjTyTb3/view?usp=sharing
 
 GitHub Repisitory:
+https://github.com/YerkinBeka/FinanceControl.git
 
 
 
