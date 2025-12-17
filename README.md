@@ -68,5 +68,25 @@ Go Backend Server
       v
 PostgreSQL Database
 
+User Manual:
+https://drive.google.com/file/d/1GlbAD43Xl83NA03Ll-GfQcIjQ5FaKLSR/view?usp=sharing
+
+Presentation:
+https://docs.google.com/presentation/d/1euOo_VWUaYVit3OZHiyoPLjmdTbzAf7x/edit?usp=sharing&ouid=117090101939757068582&rtpof=true&sd=true
+
+Technical Documentation:
+https://drive.google.com/file/d/1f8FIIFTLu32cIBZxAUMa7OLNgL7_Ivcf/view?usp=sharing
+
+Android AAB
+https://drive.google.com/file/d/1y0YbdPgT-75AYiXmJxtolRO9YqjTyTb3/view?usp=sharing
+
+GitHub Repisitory:
+
+
+
+
+
+
+
 
 
