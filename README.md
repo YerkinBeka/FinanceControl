@@ -1,16 +1,72 @@
-# project_inf229_app
+# FinanceControl — Personal Expense Tracker
 
-A new Flutter project.
+FinanceControl is a cross-platform personal finance management application developed using Flutter.
+The application helps users track daily expenses, manage spending categories, and analyze their
+financial activity over different time periods.
 
-## Getting Started
+This project was developed as a Capstone Project for the Mobile App Development course.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+##  Project Overview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The goal of FinanceControl is to provide users with a simple, intuitive, and efficient tool
+to control their personal finances. Users can register, log in securely, create expense categories,
+add expenses, and view summarized statistics for different date ranges (today, week, month).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application supports both web and mobile platforms thanks to Flutter’s cross-platform capabilities.
+
+---
+
+##  Features
+
+- User registration and authentication (JWT-based)
+- Secure login and logout
+- Expense category management
+- Add, edit, and delete expenses
+- Expense filtering by date range (today / week / month)
+- Real-time expense summary
+- User profile screen
+- Cross-platform support (Web & Android)
+
+---
+
+##  Tech Stack
+
+### Frontend
+- Flutter (Dart)
+- Material Design UI components
+
+### Backend
+- Go (Golang)
+- RESTful API
+- JWT authentication
+
+### Database
+- PostgreSQL
+
+### Tools & Services
+- Git & GitHub for version control
+- Google Drive for deployment hosting
+- Flutter Web for live demo
+
+---
+
+## Application Architecture
+The application follows a client-server architecture.
+
+The Flutter application is responsible for the user interface and user interactions.
+It communicates with the backend via REST API using HTTP requests.
+The backend processes requests, handles authentication, and interacts with the database.
+
+Flutter App (UI)
+      |
+      | HTTP (REST API)
+      v
+Go Backend Server
+      |
+      v
+PostgreSQL Database
+
+
+
